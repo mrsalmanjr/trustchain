@@ -1,0 +1,6 @@
+{
+  "name": "TrustChain",
+  "description": "A robust blockchain-based transparent charity donation platform designed to enable donors to contribute to verified charity campaigns with complete traceable utilization reports and secure blockchain hashing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

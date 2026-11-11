@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Production Build
+dist/
+build/
+coverage/
+
+# Environment & Sensitive Files
+.env
+.env.*
+.env*.local
+!.env.example
+
+# Local / Mock Database & Logs
+db.json
+*.log
+
+# OS Metadata
+.DS_Store
+*/.DS_Store
+Thumbs.db
+
+# Agent / Tooling State
+.agent/
+.agents/
+.claude/
+skills-lock.json
+
+# Temporary migration scripts
+server_backup.ts
+theme_swap*.py
+fix_map.py
+.aistudio/
+assets/.aistudio/
